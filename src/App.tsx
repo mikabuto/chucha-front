@@ -24,6 +24,7 @@ const StyledPage = styled.div`
   }
 `;
 
+// from macbook
 const App = () => {
   return (
     <ThemeProvider theme={colorTheme}>
